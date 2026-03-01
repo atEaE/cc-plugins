@@ -1,0 +1,17 @@
+{
+  "name": "skills",
+  "version": "0.1.0",
+  "description": "my agent skills",
+  "scripts": {
+    "lint:md": "markdownlint-cli2 '**/*.md'",
+    "lint:md:fix": "markdownlint-cli2 --fix '**/*.md'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atEaE/skills.git"
+  },
+  "author": "atEaE",
+  "devDependencies": {
+    "markdownlint-cli2": "^0.21.0"
+  }
+}

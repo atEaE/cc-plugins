@@ -1,0 +1,11 @@
+{
+  // markdownlint-cli2 configuration
+  // https://github.com/DavidAnson/markdownlint-cli2
+  "ignores": [
+    "node_modules/**"
+  ],
+  "config": {
+    // MD013 - Line length
+    "MD013": false
+  }
+}
