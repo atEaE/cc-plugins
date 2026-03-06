@@ -16,7 +16,7 @@
   },
   "author": "atEaE",
   "devDependencies": {
-    "@biomejs/biome": "^2.4.4",
+    "@biomejs/biome": "^2.4.6",
     "markdownlint-cli2": "^0.21.0"
   }
 }
