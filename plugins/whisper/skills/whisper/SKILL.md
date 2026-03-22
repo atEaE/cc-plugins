@@ -5,4 +5,3 @@ allowed-tools: Read(*), Grep(*), Glob(*), LSP(*)
 ---
 
 # Whisper Skill 
-
