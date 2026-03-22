@@ -1,8 +1,8 @@
-#　Claude Code My Plugins
+# Claude Code My Plugins
 
 ## Overview
 
-```
+```terminal
 /plugin marketplace add atEaE/cc-plugins
 ```
 
